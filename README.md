@@ -23,5 +23,5 @@ grunt server
 
 ブラウザのコンソールログで内容を確認する。
 
-[マニュアル](ttps://github.com/google/traceur-compiler/wiki/LanguageFeatures )
+[マニュアル](https://github.com/google/traceur-compiler/wiki/LanguageFeatures)
 
